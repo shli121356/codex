@@ -1,0 +1,22 @@
+{
+  "name": "shop-excel-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "vite": "^8.0.16",
+    "typescript": "^5.9.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "read-excel-file": "^9.2.0",
+    "recharts": "^3.5.1",
+    "lucide-react": "^0.561.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.xls
+.env
+.env.*
